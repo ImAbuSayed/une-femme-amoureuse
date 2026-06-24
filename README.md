@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/une-femme-amoureuse/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Une Femme Amoureuse](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-femme-amoureuse/) |
+| **Get License** | [Request Licensing for Une Femme Amoureuse](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-femme-amoureuse/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la nuit parisienne, tu brilles comme un diamant noir
+> Bébé, approche-toi, laisse-moi te donner l'espoir
+> T'as ce regard qui tue, un style tellement classe
+> Viens dans ma zone, we're gonna make it last
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
